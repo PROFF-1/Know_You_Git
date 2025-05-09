@@ -9,3 +9,4 @@ function gretting(name){
 console.log(gretting('Kilo')); // Hello Kilo
 console.log(gretting(5)); // 10
 
+console.log('Hello This was added to the feature branch'); // Hello This was added to the feature branch
