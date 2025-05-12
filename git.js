@@ -16,3 +16,5 @@ console.log('we want to see this code in the feature branch'); // we want to see
 
 
 console.log('This is for the dashboard'); // This is for the dashboard
+
+console.log('This is for personal use'); // This is for personal use
